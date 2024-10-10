@@ -32,7 +32,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 
-{% include bib_search.liquid %}
 <div class="publications">
 
 {% bibliography %}
