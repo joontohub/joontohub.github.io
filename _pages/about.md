@@ -157,8 +157,6 @@ I also have experience building various applications using <b>Python</b>, such a
           {% endif %}
     </p>
 
-{% if post.thumbnail %}
-
 </div>
 
   <div class="col-sm-3">
