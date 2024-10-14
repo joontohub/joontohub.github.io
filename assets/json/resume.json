@@ -37,33 +37,93 @@
       "studyType": "FireFighting & Rescue as Military Service",
       "startDate": "2016",
       "endDate": "2018"
+    },
+    {
+      "institution": "Apex Trader Funding",
+      "location": "Texas, USA",
+      "url": "https://apextraderfunding.com/",
+      "area": "Online Prop Trading Firm",
+      "studyType": "Certified Funded Trader",
+      "startDate": "2024",
+      "endDate": ""
+    },
+    {
+      "institution": "PLFDG",
+      "location": "Seoul, South Korea",
+      "url": "https://platformdgames.com",
+      "area": "Game Startup Company",
+      "studyType": "Founder",
+      "startDate": "2021",
+      "endDate": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Python",
+      "level": "7 years",
+      "icon": "💻",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Flask - FastAPI  API System",
+        "Chatbot",
+        "Auto Trading System - MT5 / Stocks / Crypto",
+        "Scraping, Crawling",
+        "Desktop App",
+        "etc"
+
+      ]
+    },
+    {
+      "name": "Unity",
+      "level": "5 years",
+      "icon": "🎮",
+      "keywords": [
+        "Mobile Game",
+        "AR - ARCore, ARKit,Vuforia",
+        "VR",
+        "Applications"
+
+      ]
+    },
+    {
+      "name": "Javascript",
+      "level": "2-3 years",
+      "icon": "💻",
+      "keywords": [
+        "API System",
+        "Web3 Application",
+        "Automation System"
+
+      ]
+    },
+    {
+      "name": "PineScript",
+      "level": "3 year",
+      "icon": "💻",
+      "keywords": [
+        "Strategies",
+        "Backtesting"
+      ]
+    },
+    {
+      "name": "Solidity",
+      "level": "1 year",
+      "icon": "💻",
+      "keywords": [
+        "Web3 Smart Contract"
       ]
     }
+
   ],
   "languages": [
     {
       "language": "Korean",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "😀"
     },
     {
       "language": "English",
-      "fluency": "Conversational-Proficient",
-      "icon": ""
+      "fluency": "Conversational +",
+      "icon": "😊"
     }
   ],
  
@@ -74,8 +134,7 @@
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
-      "url": "https://example.com",
-      "img": "1.jpg"
+      "url": "https://example.com"
     }
   ]
 }
